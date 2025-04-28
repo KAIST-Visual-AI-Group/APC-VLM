@@ -7,12 +7,25 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="XXX">
+  <a href="https://arxiv.org/abs/2504.17207">
     <img src="https://img.shields.io/badge/arXiv-2503.19385-b31b1b.svg" />
   </a>
   <a href="https://apc-vlm.github.io/">
     <img src="https://img.shields.io/badge/Website-apc_vlm.github.io-blue.svg" />
   </a>
+</p>
+
+<!-- Authors -->
+<p align="center">
+  <a href="https://phillipinseoul.github.io/">Phillip Y. Lee</a>,
+  <a href="https://jihyeonje.com/">Jihyeon Je</a>,
+  <a href="https://charlieppark.kr/">Chanho Park</a>,
+  <a href="https://mikacuy.github.io/">Mikaela Angelina Uy</a>,
+  <a href="https://geometry.stanford.edu/?member=guibas">Leonidas Guibas</a>,
+  <a href="https://mhsung.github.io">Minhyuk Sung</a>
+  <p align="center">
+    KAIST, Stanford University, NVIDIA
+  </p>
 </p>
 
 ### 💡 Abstract
